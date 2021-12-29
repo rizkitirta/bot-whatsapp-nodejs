@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "start": "nodemon ./index"
+  },
   "dependencies": {
     "@open-wa/wa-automate": "^4.27.9"
   }
